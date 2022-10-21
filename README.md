@@ -19,6 +19,34 @@
 
 - ⚡ Fun fact is that **I like manga**
 
+
+
+- **My Organization**
+
+[Computer-Vision-Projects](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Creating-a-AI-Tools-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Exp-On-Reinforcement-ML-Algorithms](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ujwal s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwal s" height="30" width="40" /></a>
