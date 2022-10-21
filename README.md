@@ -1,7 +1,7 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Ujwal S</h1>
 <h3 align="center">I'm a Aspiring data scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://ucarecdn.com/687262eb-1a0c-4a53-8de8-317b1eff509a/">
+<img align="right" alt="Coding" width="400" height="250" src="https://ucarecdn.com/687262eb-1a0c-4a53-8de8-317b1eff509a/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwal-5&label=Profile%20views&color=0e75b6&style=flat" alt="ujwal-5" /> </p>
 
@@ -22,23 +22,23 @@
 
 - **My Organization**
 
-[Computer-Vision-Projects](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Computer-Vision-Projects](https://github.com/Computer-Vision-Projects)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Creating-a-AI-Tools-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Creating-a-AI-Tools-Project](https://github.com/Creating-a-AI-Tools-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
 [Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Exp-On-Reinforcement-ML-Algorithms](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Reinforcement-ML-Algorithms](https://github.com/Exp-On-Reinforcement-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Exp-On-Semi-Supervised-ML-Algorithms](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Semi-Supervised-ML-Algorithms](https://github.com/Exp-On-Semi-Supervised-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Exp-On-Supervised-ML-Algorithms](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Supervised-ML-Algorithms](https://github.com/Exp-On-Supervised-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Exp-On-Unsupervised-ML-Algorithms](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Unsupervised-ML-Algorithms](https://github.com/Exp-On-Unsupervised-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Pythons-Projects](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Pythons-Projects](https://github.com/Pythons-Projects)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[My-Innovation-Ideas](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[My-Innovation-Ideas](https://github.com/My-Innovation-Ideas)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
 
 <h3 align="left">Connect with me:</h3>
