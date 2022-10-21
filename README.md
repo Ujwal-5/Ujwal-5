@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Re-learning: **Algorithms one by one including maths behind it.**
 
-- 👨‍💻 All of my projects are available on [GitHub](GitHub)
+- 👨‍💻 All of my projects are available on this GitHub.
 
 - 📝 My Website: [https://ujwal-5.github.io/AI-for_newbies-Website/](https://ujwal-5.github.io/AI-for_newbies-Website/)
 
@@ -43,7 +43,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ujwal s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwal s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ujwal-s-472a321b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ujwal S" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
