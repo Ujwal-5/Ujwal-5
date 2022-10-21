@@ -1,13 +1,23 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Ujwal S</h1>
-<h3 align="center">A aspiring data scientist from India</h3>
+<h3 align="center">I'm a Aspiring data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://ucarecdn.com/687262eb-1a0c-4a53-8de8-317b1eff509a/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwal-5&label=Profile%20views&color=0e75b6&style=flat" alt="ujwal-5" /> </p>
 
-- 📫 How to reach me **ujwal5pro@gmail.com**
+- 🔭 I’m currently working on: **Data-Preprocessing-For-ML, Deep-learning-project-Explanation, Self-Training-Explanation, Low-density-separation-models-Explanation, Dynamic-programming-Explanation, Monte-Carlo-Methon-Explanation**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1097lQ0vlL5vmQV6pGetSxAecy_5W82wp/view?usp=sharing](https://drive.google.com/file/d/1097lQ0vlL5vmQV6pGetSxAecy_5W82wp/view?usp=sharing)
+- 🌱 I’m currently Re-learning: **Algorithms one by one including maths behind it.**
+
+- 👨‍💻 All of my projects are available on [GitHub](GitHub)
+
+- 📝 My Website: [https://ujwal-5.github.io/AI-for_newbies-Website/](https://ujwal-5.github.io/AI-for_newbies-Website/)
+
+- 📫 Gmail: **ujwal5pro@gmail.com**
+
+- 📄 Know about my experiences: [Resume](Resume)
+
+- ⚡ Fun fact is that **I like manga**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
