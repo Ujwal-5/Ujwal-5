@@ -20,7 +20,6 @@
 - ⚡ Fun fact is that **I like manga**
 
 
-
 - **My Organization**
 
 [Computer-Vision-Projects](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
@@ -31,20 +30,15 @@
 
 [Exp-On-Reinforcement-ML-Algorithms](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Semi-Supervised-ML-Algorithms](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Supervised-ML-Algorithms](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Unsupervised-ML-Algorithms](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Pythons-Projects](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
-
-[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
-
-[Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
-
+[My-Innovation-Ideas](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
 
 <h3 align="left">Connect with me:</h3>
