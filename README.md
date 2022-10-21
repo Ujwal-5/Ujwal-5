@@ -22,23 +22,23 @@
 
 - **My Organization**
 
-[Computer-Vision-Projects](https://github.com/Computer-Vision-Projects)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Computer-Vision-Projects](https://github.com/Computer-Vision-Projects)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197159957-88c5e3ef-dadd-48d9-af67-922fca5dc9ef.png">
 
-[Creating-a-AI-Tools-Project](https://github.com/Creating-a-AI-Tools-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Creating-a-AI-Tools-Project](https://github.com/Creating-a-AI-Tools-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197160081-7dc618da-63c0-4514-862d-0bc84def83ae.png">
 
 [Data-Analyst-Project](https://github.com/Data-Analyst-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
 
-[Exp-On-Reinforcement-ML-Algorithms](https://github.com/Exp-On-Reinforcement-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Reinforcement-ML-Algorithms](https://github.com/Exp-On-Reinforcement-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197160218-e072d8d6-df66-4818-b42d-de45e4590c4e.png">
 
-[Exp-On-Semi-Supervised-ML-Algorithms](https://github.com/Exp-On-Semi-Supervised-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Semi-Supervised-ML-Algorithms](https://github.com/Exp-On-Semi-Supervised-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197160549-1f60aaa8-1c35-43f9-93ad-3d81683f4e5c.png">
 
-[Exp-On-Supervised-ML-Algorithms](https://github.com/Exp-On-Supervised-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Supervised-ML-Algorithms](https://github.com/Exp-On-Supervised-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197160634-33ab8744-f197-4e88-92bc-f6fb6bfc5d58.png">
 
-[Exp-On-Unsupervised-ML-Algorithms](https://github.com/Exp-On-Unsupervised-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Exp-On-Unsupervised-ML-Algorithms](https://github.com/Exp-On-Unsupervised-ML-Algorithms)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197160802-914fa1c1-51bf-4c58-a924-7a4e2c2c35df.png">
 
-[Pythons-Projects](https://github.com/Pythons-Projects)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[Pythons-Projects](https://github.com/Pythons-Projects)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197160915-7a7a01e1-14c5-4510-a6fa-350670abad6a.png">
 
-[My-Innovation-Ideas](https://github.com/My-Innovation-Ideas)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197148426-301e12a1-e876-4074-bc86-bac9c1477065.png">
+[My-Innovation-Ideas](https://github.com/My-Innovation-Ideas)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197161046-76606c23-3599-4084-8a90-0332867c8cbd.png">
 
 
 <h3 align="left">Connect with me:</h3>
