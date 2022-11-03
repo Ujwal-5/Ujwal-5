@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwal-5&label=Profile%20views&color=0e75b6&style=flat" alt="ujwal-5" /> </p>
 
-- 🔭 I’m currently working on: **Data-Preprocessing-For-ML-bot, AUDUSD predicting using linear regression.
+- 🔭 I’m currently working on: **Data-Preprocessing-For-ML-bot, AUDUSD predicting using linear regression.**
 
 - 🌱 I’m currently Re-learning: **Algorithms one by one including maths behind it.**
 
