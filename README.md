@@ -19,9 +19,9 @@
 
 - ⚡ Fun fact is that **I like manga**
 
-
-- **My Organization**
 <!--
+- **My Organization**
+
 [Computer-Vision-Projects](https://github.com/Computer-Vision-Projects)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197159957-88c5e3ef-dadd-48d9-af67-922fca5dc9ef.png">
 
 [Creating-a-AI-Tools-Project](https://github.com/Creating-a-AI-Tools-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197160081-7dc618da-63c0-4514-862d-0bc84def83ae.png">
