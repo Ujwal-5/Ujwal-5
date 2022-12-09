@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Re-learning: **Algorithms one by one including maths behind it.**
 
-- 👨‍💻 All of my projects are available on this GitHub.
+- 👨‍💻 All of my projects are available on this **GitHub Repositories**.
 
 - 📝 My Website: [https://ujwal-5.github.io/AI-for_newbies-Website/](https://ujwal-5.github.io/AI-for_newbies-Website/)
 
