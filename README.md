@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwal-5&label=Profile%20views&color=0e75b6&style=flat" alt="ujwal-5" /> </p>
 
-- 🔭 I’m currently working on: **Data-Preprocessing-For-ML-bot, AUDUSD predicting using linear regression.**
+- 🔭 I’m currently working on: **Algo_ML_trading_bot_2, Django_Project.**
 
 - 🌱 I’m currently Re-learning: **Algorithms one by one including maths behind it.**
 
@@ -21,7 +21,7 @@
 
 
 - **My Organization**
-
+<!--
 [Computer-Vision-Projects](https://github.com/Computer-Vision-Projects)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197159957-88c5e3ef-dadd-48d9-af67-922fca5dc9ef.png">
 
 [Creating-a-AI-Tools-Project](https://github.com/Creating-a-AI-Tools-Project)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197160081-7dc618da-63c0-4514-862d-0bc84def83ae.png">
@@ -39,7 +39,7 @@
 [Pythons-Projects](https://github.com/Pythons-Projects)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197160915-7a7a01e1-14c5-4510-a6fa-350670abad6a.png">
 
 [My-Innovation-Ideas](https://github.com/My-Innovation-Ideas)<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/104285358/197161046-76606c23-3599-4084-8a90-0332867c8cbd.png">
-
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
