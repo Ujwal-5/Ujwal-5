@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwal-5&label=Profile%20views&color=0e75b6&style=flat" alt="ujwal-5" /> </p>
 
-- 🔭 I’m currently working on: **Algo_ML_trading_bot_2, Django_Project.**
+- 🔭 I’m currently working on: **Django_Project.**
 
-- 🌱 I’m currently Re-learning: **Algorithms one by one including maths behind it.**
+- 🌱 I’m currently Re-learning: **Algorithms and Data structure.**
 
 - 👨‍💻 All of my projects are available on this **GitHub Repositories**.
 
