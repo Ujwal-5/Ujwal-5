@@ -15,7 +15,7 @@
 
 - 📫 Gmail: **ujwal5pro@gmail.com**
 
-- 📄 Know about my experiences: [Resume](Resume)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-5DQuXs4pRILiXlVxobyHcm4QJhqja1O/view?usp=share_link)
 
 - ⚡ Fun fact is that **I like manga**
 
