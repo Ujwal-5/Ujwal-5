@@ -1,11 +1,11 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Ujwal S</h1>
-<h3 align="center">I'm a Aspiring data scientist from India</h3>
+<h3 align="center">Hi, I'm Ujwal S, a Experienced Data Engineer with expertise in Machine Learning and a strong background in web scraping/crawling, data collection, and pipeline automation.</h3>
 <img align="right" alt="Coding" width="400" height="250" src="https://ucarecdn.com/687262eb-1a0c-4a53-8de8-317b1eff509a/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwal-5&label=Profile%20views&color=0e75b6&style=flat" alt="ujwal-5" /> </p>
 
-- 🔭 I’m currently working on: **Django_Project.**
+- 🔭 I’m currently working on: **AI_Project.**
 
 - 🌱 I’m currently Re-learning: **Algorithms and Data structure.**
 
