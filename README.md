@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available on this **GitHub Repositories**.
 
-- 📝 My Website: [https://ujwal-5.github.io/AI-for_newbies-Website/](https://ujwal-5.github.io/AI-for_newbies-Website/)
+- 📝 My Web Scraping Projecs: [https://ujwal-5.github.io/AI-for_newbies-Website/](https://ujwal-5.github.io/AI-for_newbies-Website/)
+
+- 📝 My Website: [[https://ujwal-5.github.io/AI-for_newbies-Website/](https://github.com/Ujwal-5/Web_crawling_and_Web_API_data_retrival_Projects)]([https://ujwal-5.github.io/AI-for_newbies-Website/](https://github.com/Ujwal-5/Web_crawling_and_Web_API_data_retrival_Projects))
 
 - 📫 Gmail: **ujwal5pro@gmail.com**
 
